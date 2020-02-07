@@ -1,4 +1,10 @@
 export const initialState={
+    data:{
+        results:{
+            id:0,
+            name:""
+        }
+    }
 
 }
 
